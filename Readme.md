@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxButton - How to implement a split button functionality
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3932/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to implement a split button functionality:</p><p>1) Define two<strong> ASPxButton </strong>(a button with text and split button) controls near each other;<br />
